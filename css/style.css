@@ -107,3 +107,24 @@ ul.nav a:hover {
     grid-column: 1 / span 2;
     grid-row: 5;
 }
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.footer2 {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(108, 108, 108);
+    color: white;
+    text-align: center;
+  }
